@@ -1,0 +1,1 @@
+web: ./baserow.sh start
